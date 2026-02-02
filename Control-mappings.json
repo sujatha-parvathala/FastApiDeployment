@@ -1,0 +1,16 @@
+{
+  "Name": "If customer type is 'Entity' then get Business Name; if customer type is 'Individual' and Role is 'Applicant' then get First Name LastName from Borrower else get First Name LastName from CoApplicant.",
+  "BDO Street Address": "get BDO Street value",
+  "Applicant Name": "get Borrower FirstName LastName",
+  "Applicant Address": "get Borrower Street Address",
+  "Street": "If role is 'Applicant' then get street from Borrower else from CoApplicant",
+  "City": "If role is 'Applicant' then get City from Borrower else from CoApplicant",
+  "State": "If role is 'Applicant' then get State from Borrower else from CoApplicant",
+  "LoanProduct": "get LoanProduct value",
+  "LoanType": "get value from LoanType",
+  "InterestRateType": "get value of InterestRateType",
+  "InterestRate": "get value of InterestRate",
+  "ProjectCost": "if loan product is '504' and Loan Type is 'Commercial' then take project cost from '504-C'; else if loan product is '504' and Loan Type is 'RealEstate' then take project cost from '504-R'; else if loan product is '7a' and Loan Type is 'Commercial' then take project cost from '7a-C'; else if loan product is '7a' and Loan Type is 'RealEstate' then take project cost from '7a-R'",
+  "DownPayment": "if loan product is '504' and Loan Type is 'Commercial' then take DownPayment from '504-C'; else if loan product is '504' and Loan Type is 'RealEstate' then take DownPayment from '504-R'; else if loan product is '7a' and Loan Type is 'Commercial' then take DownPayment from '7a-C'; else if loan product is '7a' and Loan Type is 'RealEstate' then take DownPayment from '7a-R'",
+  "LoanAmount": "if loan product is '504' and Loan Type is 'Commercial' then take LoanAmount from '504-C'; else if loan product is '504' and Loan Type is 'RealEstate' then take LoanAmount from '504-R'; else if loan product is '7a' and Loan Type is 'Commercial' then take LoanAmount from '7a-C'; else if loan product is '7a' and Loan Type is 'RealEstate' then take LoanAmount from '7a-R'"
+}

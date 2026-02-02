@@ -1,0 +1,8 @@
+{
+    "CoApplicant_ShowHide": "show this content control if data exists for Project.Opportunity.CoApplicant.FirstName or Project.Opportunity.CoApplicant.LastName otherwise hide ",
+    "RealEstate": "show this control only when the value of LoanType value is RealEstate",
+    "Commercial": "show this control only when value of LoanType value is Commercial",
+    "VariableInterest": "show this control only when value of  InterestRateType is 'Variable' ",
+    "FixedInterest": "show this control only when value of InterestRateType is 'Fixed'"
+
+}

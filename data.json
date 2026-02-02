@@ -1,0 +1,68 @@
+{
+    "Project": {
+        "Opportunity": {
+            "OpportunityName": "Implemented heuristic success",
+            "OpportunityId": "0cd1df96-126d-4850-b984-44a715c1e0b5",
+            "BDO": {
+                "Street": "888 Stewart Crossing Apt. 665",
+                "City": "Stricklandport",
+                "State": "ID",
+                "Zip": "57625"
+            },
+            "Date": "2024-09-20",
+            "CutomerType":"Individual",
+            "BusinessName":"ASY Pvt Ltd",
+            "Role":"Applicant",
+            "Borrower": {                
+                "Salutation": "Dr.",
+                "FirstName": "Sujatha",
+                "LastName": "Parvathala",
+                "Street": "44554 Randall Trafficway",
+                "City": "New William",
+                "State": "OH",
+                "Zip": "28493"
+            },
+            "LoanProduct": "504",
+            "LoanType": "Commercial",
+            "CoApplicant": {
+                "Salutation": "Mr.",
+                "FirstName": null,
+                "LastName": null,
+                "Street": "8249 Johnson Ridges",
+                "City": "South Michelle",
+                "State": "OR",
+                "Zip": "89934"
+            },
+            "504-C":{
+                "ProjectCost": "193704.72",
+                "DownPayment": "522582.19",
+                "LoanAmount": "1668878.21"
+                           
+            },
+            "504-R":{
+               "ProjectCost": "203704.72",
+                "DownPayment": "222582.19",
+                "LoanAmount": "1068878.21" 
+            },
+            "7a-C":{
+                "ProjectCost": "143704.72",
+                "DownPayment": "422582.19",
+                "LoanAmount": "1968878.21"           
+            },
+            "7a-R":{
+               "ProjectCost": "153704.72",
+                "DownPayment": "322582.19",
+                "LoanAmount": "1368878.21"                 
+            },
+            "Spread": "1.13",
+            "FloatRate": "4.29",
+            "MonthlyPayments": "7303.97",
+            "BlendedRate": "3.82",
+            "BlendedPayments": "18791.55",
+            "AmortizationYears": "28",
+            "TermYears": "8",
+            "InterestRateType": "Fixed" ,
+            "InterestRate": "2.68"
+        }
+    }
+}
