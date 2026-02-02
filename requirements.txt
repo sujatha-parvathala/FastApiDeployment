@@ -1,0 +1,7 @@
+transformers
+--upgrade transformers
+transformers accelerate bitsandbytes
+huggingface_hub
+requests
+groq
+groq langchain-groq
